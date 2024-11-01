@@ -1,0 +1,13 @@
+/*
+ * TIMER0_interface.h
+ *
+ *  Created on: Mar 13, 2024
+ *      Author: DELL
+ */
+
+#ifndef INCLUDE_MCAL_TIMER0_TIMER0_INTERFACE_H_
+#define INCLUDE_MCAL_TIMER0_TIMER0_INTERFACE_H_
+
+
+
+#endif /* INCLUDE_MCAL_TIMER0_TIMER0_INTERFACE_H_ */
